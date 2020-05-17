@@ -1,0 +1,221 @@
+@media  (min-width:992px) {
+.col-lg-1{
+	width: 8.33%;
+	float: left;
+}
+.col-lg-2{
+    width: 16.7%;
+    float: left;
+}
+.col-lg-3{
+	width: 25.00%;
+	float: left;
+}
+.col-lg-4{
+	width: 33.33%;
+	float: left;
+}
+.col-lg-5{
+	width: 41.69%;
+	float: left;
+}
+.col-lg-6{
+	width: 50.02%;
+	float: left;
+}
+.col-lg-7{
+	width: 58.35%;
+	float: left;
+}
+.col-lg-8{
+	width: 66.68%;
+	float: left;
+}
+.col-lg-9{
+	width: 75.01%;
+	float: left;
+}
+.col-lg-10{
+	width: 83.34%;
+	float: left;
+}
+.col-lg-11{
+	width: 91.67%;
+	float: left;
+}
+.col-lg-12{
+	width: 100%;
+	float: left;
+}
+}
+
+@media  (min-width:768px) and (max-width: 991px) {
+.col-md-1{
+	width: 8.33%;
+	float: left;
+}
+.col-md-2{
+    width: 16.7%;
+    float: left;
+}
+.col-md-3{
+	width: 25.00%;
+	float: left;
+}
+.col-md-4{
+	width: 33.3%;
+	float: left;
+}
+.col-md-5{
+	width: 41.69%;
+	float: left;
+}
+.col-md-6{
+	width: 50.00%;
+	float: left;
+}
+.col-md-7{
+	width: 58.35%;
+	float: left;
+}
+.col-md-8{
+	width: 66.68%;
+	float: left;
+}
+.col-md-9{
+	width: 75.01%;
+	float: left;
+}
+.col-md-10{
+	width: 83.34%;
+	float: left;
+}
+.col-md-11{
+	width: 91.67%;
+	float: left;
+}
+.col-md-12{
+	width: 100%;
+	float: left;
+}
+}
+
+@media   (max-width: 767px) {
+.col-sm-1{
+	width: 8.33%;
+	float: left;
+}
+.col-sm-2{
+    width: 16.7%;
+    float: left;
+}
+.col-sm-3{
+	width: 25.00%;
+	float: left;
+}
+.col-sm-4{
+	width: 33.3%;
+	float: left;
+}
+.col-sm-5{
+	width: 41.69%;
+	float: left;
+}
+.col-sm-6{
+	width: 50.02%;
+	float: left;
+}
+.col-sm-7{
+	width: 58.35%;
+	float: left;
+}
+.col-sm-8{
+	width: 66.68%;
+	float: left;
+}
+.col-sm-9{
+	width: 75.01%;
+	float: left;
+}
+.col-sm-10{
+	width: 83.34%;
+	float: left;
+}
+.col-sm-11{
+	width: 91.67%;
+	float: left;
+}
+.col-sm-12{
+	width: 100%;
+	float: left;
+}
+}
+
+*{
+	box-sizing: border-box;
+	font-family: cursive;
+}
+
+div section {
+	border: 5px solid black ;
+	margin: 20px;
+	background-color: grey;
+}
+
+div h1{
+	text-align: center;
+	margin: 30px;
+}
+
+.toph1 {
+    position: relative;
+    left: 76%;
+    top: -5px;
+    width: 25%;
+    border: 5px solid black ;
+    padding: 15px;
+    text-align: center;
+    color: white;
+    background-color:  #dca5a5;
+}
+.toph2{
+    position: relative;
+    left: 76%;
+    top: -5px;
+    width: 25%;
+    border: 5px solid black ;
+    padding: 15px;
+    text-align: center;
+    color: white;
+    background-color: #ea2424;
+}
+.toph3 {
+    position: relative;
+    left: 75.8%;
+    width: 25%;
+    top: -5px;
+    border: 5px solid black ;
+    padding: 15px;
+    text-align: center;
+    color: white;
+    background-color:  #FFC107;;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
